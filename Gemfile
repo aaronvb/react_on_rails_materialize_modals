@@ -47,3 +47,5 @@ end
 
 gem 'react_on_rails', '~> 2.3.0'
 gem 'therubyracer'
+gem 'bootstrap-sass'
+gem 'materialize-sass'
